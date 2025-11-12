@@ -24,4 +24,4 @@ This project simulates a **multi-agent system** within Databricks using Spark SQ
 
 ## 📢 Author
 **Your Name**  
-[LinkedIn Profile] (optional)
+Sirjandeep Singh
