@@ -112,6 +112,5 @@ The design is modular, extensible, and ready for real API integration if provide
 ## How to Run
 1. Import the notebook into Databricks.  
 2. Ensure both tables `sales_transactions` and `customer_behavior` are created.  
-3. Run all cells from top to bottom.  
-4. The three agents will initialize and produce analytical outputs for each case study question.
+3. The three agents will initialize and produce analytical outputs for each case study question.  
 
